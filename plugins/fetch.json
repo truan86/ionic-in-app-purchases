@@ -1,0 +1,20 @@
+{
+    "cordova-plugin-console": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-console"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cc.fovea.cordova.purchase": {
+        "source": {
+            "type": "registry",
+            "id": "cc.fovea.cordova.purchase"
+        },
+        "is_top_level": true,
+        "variables": {
+            "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsYUyyVYGC1A/rSvsUAaZqe6YEWm53iAiR4jVkG016pHmIRcH4Lf9Q/+oZ15tf+GalotPHIv2AsCKX7eUq6pPoK4V9UfowoBr8ORWZTOKLSDDSoxS5L1Q+ecS36UfSAjCDcgXwgy2GtqfV4btWTJseyFniEcxUoVrYJ4t8cS1td+ZiGbP83pdH9ff1sVVvBAwSvv2zN7KhpjPxSV4+S5GMBSx/y94iJnYyCCoCKT02mxGsZmPoB+0CE3shI2HlRWheI/p+Kfc5lu5JIkY/QHKvgHkXhgVawNtvjumfvaXl4i+fnrmvhnO7DuyrMw2p74S9/SV4gPgfPNbjDtI8jQ79wIDAQAB"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cc.fovea.cordova.purchase": {
+            "BILLING_KEY": "AndroidKey",
+            "PACKAGE_NAME": "com.ionicframework.inapppurchases"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.inapppurchases"
+        }
+    },
+    "dependent_plugins": {}
+}
